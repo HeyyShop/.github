@@ -1,7 +1,6 @@
-<img align="right" width="64" height="64" src="https://github.com/user-attachments/assets/55eb05e9-5635-4a4c-833e-9df07a553757" />
-&nbsp;
-
+![logo-banner-4-rounded](https://github.com/user-attachments/assets/b3f69d30-5caf-4c18-9153-4749a2490389)
 ## Boas-vindas à HeyyShop!
+
 Somos uma loja focada em Scripts para FiveM, com foco em inovação, qualidade e perfomance.
 
 Trabalhamos arduamente para trazer sistemas cada vez mais inovadores, com a maior qualidade e diferentes de tudo o que você já viu! Tudo isso com a melhor performance possível.
